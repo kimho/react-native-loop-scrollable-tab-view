@@ -29,6 +29,6 @@
   },
   "homepage": "https://github.com/menq/react-native-loop-scrollable-tab-view#readme",
   "dependencies": {
-    "react-native-scrollable-tab-view": "^0.10.0"
+    "react-native-scrollable-tab-view": "ptomasroos/react-native-scrollable-tab-view#master"
   }
 }
